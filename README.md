@@ -2,12 +2,14 @@
 
 This project implements an AI chatbot using **Next.js**, **React**, and integrates with the **NVIDIA Llama 3.1 Nemotron-70B** model for generating AI-powered responses. The frontend is built using Tailwind CSS, and the chatbot includes a real-time chat interface and supports customization for different applications.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wa54fusaqpqeqfdixeow.gif)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3g0xd7xyknbz2m9pbt0a.png)
 
 ---
 ## Demo
 
 [DEMO](https://nemotron.vercel.app/)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ghjtlezw52u6prm2tx15.png)
 
 ---
 
