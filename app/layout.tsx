@@ -5,10 +5,9 @@ import { Toaster } from "@/components/ui/toaster"
 import { ThemeProvider } from "@/components/theme-provider"
 
 const inter = Inter({ subsets: ['latin'] });
-
 export const metadata: Metadata = {
-  title: 'Modern Chatbot',
-  description: 'A modern chatbot using Next.js and OpenAI',
+  title: 'llama-3.1 Nemotron 70b Assistant',
+  description: 'An intelligent chatbot powered by NVIDIA AI llama-3.1-nemotron-70b model and Next.js',
 };
 
 export default function RootLayout({
